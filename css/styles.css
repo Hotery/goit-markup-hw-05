@@ -829,7 +829,7 @@ margin-bottom: 4px;
     border: none;
     fill: #F4F4FD; 
 }
-.checkbox_text_icon:link{
+.checkbox_text_icon{
   color:  #4d5ae5;
   font-family: Roboto;
 font-size: 12px;
